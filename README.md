@@ -48,6 +48,6 @@ This project explores the advancements in wireless communication, focusing on MI
 ## Contact
 For more details, check out the full research document or reach out to the contributors.
 
----
+----
 
 > "Wi-Fi’s down? 5G takes the crown!"
